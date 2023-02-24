@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [😀 博士成事--内功心法](README.md)
 * [序言](<README (1).md>)
 * [发表文章的扭曲心理](fa-biao-wen-zhang-de-niu-qu-xin-li.md)
 * [如何处理自己与外界关系](bo-shi-cheng-shi-xin-fa/ru-he-chu-li-zi-ji-yu-wai-jie-guan-xi.md)
