@@ -7,4 +7,5 @@
 * [面试的焦虑自卑心理](mian-shi-de-jiao-lv-zi-bei-xin-li.md)
 * [重生-如何调整心态](zhong-sheng-ru-he-tiao-zheng-xin-tai.md)
 * [重生-看书解决一切问题](kan-shu-jie-jue-yi-qie-wen-ti.md)
+* [🍷 重生-十三邀](zhong-sheng-shi-san-yao.md)
 * [🥰 收尾](shou-wei.md)
